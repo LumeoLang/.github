@@ -11,4 +11,4 @@
 * **[Lumeo Docs](https://github.com/LumeoLang/Docs)** – Lumeo Docs webpage
 * **[Lumeo Logo](https://github.com/LumeoLang/Logo)** – Logo repo
 * **[LPM](https://github.com/LumeoLang/LPM)** – Lumeo Package Manager
-
+* **[Lumeo Installer for Windows](https://github.com/LumeoLang/WinInstaller)** – Lumeo Installer for Windows
