@@ -12,3 +12,10 @@
 * **[Lumeo Logo](https://github.com/LumeoLang/Logo)** – Logo repo
 * **[LPM](https://github.com/LumeoLang/LPM)** – Lumeo Package Manager
 * **[Lumeo Installer for Windows](https://github.com/LumeoLang/WinInstaller)** – Lumeo Installer for Windows
+
+## Links
+
+* **[lumeolang.org](http://lumeolang.org)** Official website
+* **[@LumeoLang Twitter](https://twitter.com/LumeoLang)**
+* **[Official Forum](blank)**
+* **[Contact form](blank)**
