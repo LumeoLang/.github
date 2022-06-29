@@ -6,8 +6,9 @@
 
 ## Repositories
 `Lumeo` and sorted by name
-**[Lumeo](https://github.com/LumeoLang/Lumeo)** – main repo
-**[Builds](https://github.com/LumeoLang/Builds)** – Lumeo public builds
-**[Lumeo Docs](https://github.com/LumeoLang/Docs)** – Lumeo Docs webpage
-**[Lumeo Logo](https://github.com/LumeoLang/Logo)** – Logo repo
-**[L](https://github.com/LumeoLang/Lumeo)** – main repo
+* **[Lumeo](https://github.com/LumeoLang/Lumeo)** – main repo
+* **[Builds](https://github.com/LumeoLang/Builds)** – Lumeo public builds
+* **[Lumeo Docs](https://github.com/LumeoLang/Docs)** – Lumeo Docs webpage
+* **[Lumeo Logo](https://github.com/LumeoLang/Logo)** – Logo repo
+* **[LPM](https://github.com/LumeoLang/LPM)** – Lumeo Package Manager
+
